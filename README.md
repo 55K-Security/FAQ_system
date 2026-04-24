@@ -51,3 +51,6 @@ If you make changes to the backend:
 docker-compose up -d --build backend
 ```
 <img width="1920" height="929" alt="image" src="https://github.com/user-attachments/assets/d27c27f9-d01c-431c-812a-605db025ad6f" />
+
+<img width="1920" height="929" alt="image" src="https://github.com/user-attachments/assets/83e5a81a-a8fc-4adb-80fb-788ecd970712" />
+
